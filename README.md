@@ -1,5 +1,7 @@
 # Multithreading Matrix Multiplication – Performance Analysis
-
+## Key Result
+- Maximum speedup achieved at ~8–10 threads
+- Performance degrades beyond this due to overhead
 ## 1. Aim
 To analyze the impact of multithreading on the execution time of matrix multiplication and understand performance scaling with increasing number of threads.
 
