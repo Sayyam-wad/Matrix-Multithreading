@@ -54,7 +54,7 @@ Where:
 - P = fraction of parallelizable work
 - T = number of threads
 
-👉 Even with infinite threads, speedup is limited by the sequential portion.
+ Even with infinite threads, speedup is limited by the sequential portion.
 
 ---
 
